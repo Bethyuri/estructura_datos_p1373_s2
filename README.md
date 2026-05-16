@@ -36,14 +36,12 @@ Estas librerías ya vienen incluidas en Python, por lo que no es necesario insta
 
 ## Explicación de los algoritmos
 
-La búsqueda secuencial recorre el arreglo elemento por elemento hasta encontrar el número ingresado.
+* La búsqueda secuencial recorre el arreglo elemento por elemento hasta encontrar el número ingresado.
 Características:
 - No necesita que el arreglo esté ordenado.
 - Puede ser lenta con grandes cantidades de datos.
 
-### Búsqueda Binaria
-
-La búsqueda binaria divide el arreglo en mitades sucesivamente para encontrar el número.
+* La búsqueda binaria divide el arreglo en mitades sucesivamente para encontrar el número.
 
 Características:
 - Requiere que el arreglo esté ordenado.
